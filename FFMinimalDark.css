@@ -92,11 +92,13 @@ tabview
     border-radius: 0 !important;
     -moz-image-region: rect(0, 11px, 11px, 0) !important;
     background-image: none !important;
+    background-color: #000 !important;
 }
 #forward-button > .toolbarbutton-icon {
     border-radius: 0 !important;
     -moz-image-region: rect(0, 22px, 11px, 11px) !important;
     background-image: none !important;
+    background-color: #000 !important;
 }
 
 /* reduce horizontal padding of buttons */
